@@ -95,7 +95,9 @@ public class CollectionTest {
 //		String c = new String("a");
 //		System.out.println(a.equals(c));
 	
-			
+		String c = "a";
+		String d = "a";
+		System.out.println(c.equals(d));
 		
 		
 		
