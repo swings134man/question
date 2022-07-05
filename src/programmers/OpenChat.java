@@ -3,6 +3,16 @@ package programmers;
 import java.util.ArrayList;
 import java.util.HashMap;
 
+/**
+ * 
+ * <pre>
+ * </pre>
+ * @Class   : 프로그래머스 카카오 오픈채팅 1번 풀이 
+ * @File    : OpenChat.java
+ * @Package : programmers
+ * @author  : seokjunkang
+ * @Date    : 2022. 6. 7. 오후 6:16:23
+ */
 public class OpenChat {
 
 	public static void main(String[] args) {
@@ -18,9 +28,6 @@ public class OpenChat {
 		
 	}//main
 
-	
-	
-	
 	public static String[] solution(String[] record) {
 		   
 		   HashMap<String, String> id = new HashMap<String, String>(); // UID, NickName
