@@ -114,7 +114,7 @@ public class NewIdRecommend {
  * @author  : seokjunkang
  * @Date    : 2022. 7. 6. 오전 12:12:29
  */
-class Solution {
+class Solution_NewId {
 	public String solution(String new_id) {
         String answer = "";
         String temp = new_id.toLowerCase();
