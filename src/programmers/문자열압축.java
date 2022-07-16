@@ -4,6 +4,12 @@ public class 문자열압축 {
 
 	public static void main(String[] args) {
 
+		Solution_String sl = new Solution_String();
+		
+		String ex = "ababcdcdababcdcd";
+		
+		
+		System.out.println(sl.solution(ex));
 	}
 
 }
