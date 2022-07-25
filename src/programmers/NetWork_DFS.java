@@ -1,5 +1,15 @@
 package programmers;
 
+/**
+ * 
+ * <pre>
+ * </pre>
+ * @Class   : 프로그래머스 - 네트워크 (DFS) 
+ * @File    : NetWork_DFS.java
+ * @Package : programmers
+ * @author  : seokjunkang
+ * @Date    : 2022. 7. 26. 오전 12:11:56
+ */
 public class NetWork_DFS {
 
 	public static void main(String[] args) {
