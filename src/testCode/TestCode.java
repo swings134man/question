@@ -22,7 +22,7 @@ class Solution {
 		String temp = new_id.toLowerCase();
 		
 		temp = temp.replaceAll("[^-_.a-z0-9]", "");
-		temp = temp.replaceAll("[.]{2,}", ".");
+		temp = temp.replaceAll("[.]{2,}", "."); // []첫번쨰 대괄호 에 해당하는 {2}숫자만큼  -> 리플레이스 .
 		temp = temp.replaceAll("^[.]|[.]$", "");
 		
 		if(temp.equals("")) {
