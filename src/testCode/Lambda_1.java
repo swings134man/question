@@ -39,12 +39,13 @@ public class Lambda_1 {
 		int value = f.max(2, 5);
 		System.out.println("value = " + value);
 		
+		
 		// ------------------------------------------------------------------------------
 		// Ex 3
 		
 		// 익명 객체를 람다식으로 대체
 		List<String> list = Arrays.asList("abc","aaa","bbb","ddd","aaa");
-		Collections.sort(list, (s1, s2) -> s2.compareTo(s1));
+		Collections.sort(list, (s1, s2) -> s2.compareTo(s1)); // 인터페이스에 정의된 method를 사용.
 		
 		// 위의 람다식 원형.
 //		Collections.sort(list, new Comparator<String>() {
@@ -53,8 +54,44 @@ public class Lambda_1 {
 //			}
 //		});
 		
+		// ------------------------------------------------------------------------------
+		// Ex 4
 		
+		// 1번 예제 - 람다식으로 Myfunction2 의 run()을 구현
+		Myfunction2 f1 = () -> System.out.println("f1.run()");
+		
+		// 2번 예제 - 함수형 인터페이스를 일반적인 Java 로 구현
+		Myfunction2 f2 = new Myfunction2() { // 익명클래스로 run()을 구현함
+			
+			@Override
+			public void run() { // public 을 반드시 붙여야함. -> 메서드 재정의
+				System.out.println("f2.run()");
+			}
+		};
+		
+		// 3번 예제
+		Myfunction2 f3 = getMyfunction();
+		// Myfunction2 f3 = () -> System.out.println("f3.run()"); // static 메서드를 정의하지 않고 하는방법.
+		
+		f1.run();
+		f2.run();
+		f3.run();
+
+		execute( () -> System.out.println("execute.run()")); // execute 메서드의 람다식을 매게변수로 받아서 호출하는것. syso를 매개변수로 줌.
+		execute( () -> System.out.println("run()") ); // 람다식에 직접 넘겨줌.
 	}// main
+	
+	//Ex4 메서드
+	static void execute(Myfunction2 fe) { // 매게변수의 타입이 Myfinction2인 메서드
+		fe.run();
+	}
+	
+	static Myfunction2 getMyfunction() {
+//		Myfunction2 fget = () -> System.out.println("f3.run()");
+//		return fget;
+		return () -> System.out.println("f3.run()");
+	}
+	
 
 } //class
 
@@ -69,4 +106,10 @@ interface MyFunction {
 @FunctionalInterface
 interface Comparator<T> {
 	int compare(T o1, T o2);
+}
+
+// Ex4
+@FunctionalInterface
+interface Myfunction2 {
+	void run(); // public abstract void run();
 }
