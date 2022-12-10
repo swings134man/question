@@ -73,7 +73,6 @@ public class 명예의전당 {
             // 제일 작은 값을 return 만 진행하고 삭제는 하지 않는다.
             answer[i] = queue.peek();
         }
-
         return answer;
     }
 
