@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1d485dea-e430-4136-a7b1-0eb651b59976" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programmers/최대공약수와최소공배수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/최대공약수와최소공배수.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programmers/나머지한점.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/나머지한점.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
     <property name="project.structure.side.proportion" value="0.2735632" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.나머지한점">
+  <component name="RunManager" selected="Application.Java2차원">
     <configuration name="명예의전당" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmers.명예의전당" />
       <module name="question" />
@@ -67,6 +67,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="programmers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Java2차원" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testCode.Java2차원" />
+      <module name="question" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,6 +128,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Java2차원" />
         <item itemvalue="Application.나머지한점" />
         <item itemvalue="Application.명예의전당" />
         <item itemvalue="Application.UploadTest" />
@@ -134,7 +148,7 @@
       <workItem from="1670405378118" duration="535000" />
       <workItem from="1670405919061" duration="8484000" />
       <workItem from="1670675798215" duration="2828000" />
-      <workItem from="1670756243426" duration="1851000" />
+      <workItem from="1670756243426" duration="7179000" />
     </task>
     <servers />
   </component>

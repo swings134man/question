@@ -16,10 +16,6 @@ public class 나머지한점 {
     private static int[] solution(int[][] v) {
         int[] answer = new int[2];
 
-        // 나머지 좌표 값.
-        int x = 0;
-        int y = 0;
-
         // x좌표 구하기
         if(v[0][0] == v[2][0]) {
             answer[0] = v[1][0];
@@ -38,7 +34,6 @@ public class 나머지한점 {
             answer[1] = v[1][1];
         }
 
-
         return answer;
     }//sol
 
@@ -47,9 +42,5 @@ public class 나머지한점 {
         int[][] v = {{1,4},{3,4},{3,10}};
 
         System.out.println(Arrays.toString(solution(v)));
-
-
-
-
     }//main
 }//class
