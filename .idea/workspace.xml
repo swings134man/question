@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1d485dea-e430-4136-a7b1-0eb651b59976" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programmers/명예의전당.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/명예의전당.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programmers/최대공약수와최소공배수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/최대공약수와최소공배수.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +41,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2735632" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.최대공약수와최소공배수">
+  <component name="RunManager" selected="Application.나머지한점">
     <configuration name="명예의전당" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmers.명예의전당" />
       <module name="question" />
@@ -60,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="최대공약수와최소공배수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.최대공약수와최소공배수" />
+    <configuration name="나머지한점" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.나머지한점" />
       <module name="question" />
       <extension name="coverage">
         <pattern>
@@ -86,6 +87,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="최대공약수와최소공배수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.최대공약수와최소공배수" />
+      <module name="question" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="문자열나누기_level0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmers.문자열나누기_level0" />
       <module name="question" />
@@ -101,7 +115,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.최대공약수와최소공배수" />
+        <item itemvalue="Application.나머지한점" />
         <item itemvalue="Application.명예의전당" />
         <item itemvalue="Application.UploadTest" />
         <item itemvalue="Application.문자열나누기_level0" />
@@ -119,7 +133,8 @@
       <workItem from="1657958062737" duration="4000" />
       <workItem from="1670405378118" duration="535000" />
       <workItem from="1670405919061" duration="8484000" />
-      <workItem from="1670675798215" duration="2188000" />
+      <workItem from="1670675798215" duration="2828000" />
+      <workItem from="1670756243426" duration="1851000" />
     </task>
     <servers />
   </component>

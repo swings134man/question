@@ -74,4 +74,5 @@ public class 최대공약수와최소공배수 {
         System.out.println("솔루션 1번 : " + Arrays.toString(solution(n,m)));
         System.out.println("솔루션 2번 : " + Arrays.toString(sol2(a,b)));
     }
+
 }//class
