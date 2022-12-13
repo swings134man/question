@@ -25,7 +25,7 @@ package programmers;
  ************/
 public class 점찍기 {
 
-    //1 
+    //1
     private static long solution(int k, int d) {
         long answer =  0L;
 
