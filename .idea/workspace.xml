@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1d485dea-e430-4136-a7b1-0eb651b59976" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programmers/점찍기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/점찍기.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,7 @@
     <property name="project.structure.side.proportion" value="0.2735632" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.ChristmasTree">
+  <component name="RunManager" selected="Application.DfsBfs">
     <configuration name="명예의전당" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmers.명예의전당" />
       <module name="question" />
@@ -67,6 +66,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="testCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DfsBfs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekCoding.DfsBfs" />
+      <module name="question" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baekCoding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,26 +151,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="문자열나누기_level0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.문자열나누기_level0" />
-      <module name="question" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programmers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DfsBfs" />
         <item itemvalue="Application.ChristmasTree" />
         <item itemvalue="Application.Java2차원" />
         <item itemvalue="Application.명예의전당" />
         <item itemvalue="Application.UploadTest" />
-        <item itemvalue="Application.문자열나누기_level0" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +175,9 @@
       <workItem from="1670675798215" duration="2828000" />
       <workItem from="1670756243426" duration="7214000" />
       <workItem from="1670920968937" duration="3955000" />
-      <workItem from="1670949989493" duration="649000" />
+      <workItem from="1670949989493" duration="1285000" />
+      <workItem from="1671179215724" duration="67000" />
+      <workItem from="1671266520401" duration="1382000" />
     </task>
     <servers />
   </component>
