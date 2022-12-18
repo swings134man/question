@@ -27,7 +27,7 @@ public class 바이러스 {
 
         n = sc.nextInt();  // 컴퓨터의 갯수 (node)
         m = sc.nextInt(); // 연결되어있는 컴퓨터 쌍의 갯수.
-        v = 1;
+        v = 1;  // 시작 노드 번호.
 
         // 인접 행렬
         arr = new int[n +1][n +1]; // 각 정점간 탐색 경로 저장 배열
@@ -38,12 +38,14 @@ public class 바이러스 {
             arr[a][b] = 1;
             arr[b][a] = 1;
         }
+        sc.close();
 
         // bfs
         visited = new boolean[n +1]; // 정점의 탐색 여부 체크 배열
         System.out.println(bfs(v));
 
         count = 0; // 초기화.
+
         // dfs
         visited = new boolean[n +1];
         System.out.println(dfs(v));

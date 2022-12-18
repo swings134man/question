@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1d485dea-e430-4136-a7b1-0eb651b59976" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/question/baekCoding/DfsBfs.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/question/baekCoding/DfsBfs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekCoding/바이러스.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekCoding/바이러스.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,7 +192,7 @@
       <workItem from="1670949989493" duration="1285000" />
       <workItem from="1671179215724" duration="67000" />
       <workItem from="1671266520401" duration="4411000" />
-      <workItem from="1671359850006" duration="323000" />
+      <workItem from="1671359850006" duration="913000" />
     </task>
     <servers />
   </component>
