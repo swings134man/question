@@ -46,9 +46,9 @@
     <property name="project.structure.side.proportion" value="0.2735632" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Stack_1">
-    <configuration name="명예의전당" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.명예의전당" />
+  <component name="RunManager" selected="Application.타켓넘버">
+    <configuration name="타켓넘버" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.타켓넘버" />
       <module name="question" />
       <extension name="coverage">
         <pattern>
@@ -179,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.타켓넘버" />
         <item itemvalue="Application.Stack_1" />
         <item itemvalue="Application.DfsBfs" />
         <item itemvalue="Application.ChristmasTree" />
         <item itemvalue="Application.Java2차원" />
-        <item itemvalue="Application.명예의전당" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +206,8 @@
       <workItem from="1671266520401" duration="4411000" />
       <workItem from="1671359850006" duration="1049000" />
       <workItem from="1671437665016" duration="601000" />
-      <workItem from="1671555176169" duration="1761000" />
+      <workItem from="1671555176169" duration="2044000" />
+      <workItem from="1671641423937" duration="2739000" />
     </task>
     <servers />
   </component>
