@@ -28,6 +28,7 @@ public class 타켓넘버 {
 
     // dfs
     public static void dfs(int index, int[] numbers, int target, int sum) {
+        System.out.println(index);
         // 배열의 길이 +1 에서 종료.
         if(index == numbers.length) {
             if(sum == target) {

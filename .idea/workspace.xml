@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1d485dea-e430-4136-a7b1-0eb651b59976" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/question/programmers/타켓넘버.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/question/programmers/타켓넘버.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programmers/타켓넘버.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/타켓넘버.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +29,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/programmers/게임맵최단거리.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -44,7 +49,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2735632" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunManager" selected="Application.타켓넘버">
     <configuration name="타켓넘버" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -207,7 +212,10 @@
       <workItem from="1671359850006" duration="1049000" />
       <workItem from="1671437665016" duration="601000" />
       <workItem from="1671555176169" duration="2044000" />
-      <workItem from="1671641423937" duration="2739000" />
+      <workItem from="1671641423937" duration="3582000" />
+      <workItem from="1671807855438" duration="1720000" />
+      <workItem from="1671809583655" duration="162000" />
+      <workItem from="1671809764884" duration="438000" />
     </task>
     <servers />
   </component>
