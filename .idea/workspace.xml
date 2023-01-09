@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1d485dea-e430-4136-a7b1-0eb651b59976" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programmers/Kakao_개인정보수집.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/Kakao_개인정보수집.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,7 +233,7 @@
       <workItem from="1671894714236" duration="3996000" />
       <workItem from="1672417769740" duration="180000" />
       <workItem from="1672589371206" duration="98000" />
-      <workItem from="1673160704236" duration="5384000" />
+      <workItem from="1673160704236" duration="6015000" />
     </task>
     <servers />
   </component>

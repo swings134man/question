@@ -39,6 +39,8 @@ public class Kakao_개인정보수집 {
             String[] pr = privacies[i].split(" "); // 0: 2019.01.01, 1: D
 
             // 비교
+            // getDate: 대략 60000
+            // 오늘날짜와(date) 다른날짜 비교 후 리스트에 add
             if(getDate(pr[0]) + (termMap.get(pr[1]) * 28) <= date) {
                 answer.add(i + 1);
             }
