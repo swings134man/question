@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1d485dea-e430-4136-a7b1-0eb651b59976" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programmers/Kakao_개인정보수집.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/Kakao_개인정보수집.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +51,22 @@
     <property name="project.structure.side.proportion" value="0.2735632" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
-  <component name="RunManager" selected="Application.Kakao_개인정보수집">
+  <component name="RunManager" selected="Application.크기가작은부분문자열">
     <configuration name="타켓넘버" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmers.타켓넘버" />
+      <module name="question" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="크기가작은부분문자열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.크기가작은부분문자열" />
       <module name="question" />
       <extension name="coverage">
         <pattern>
@@ -72,19 +84,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="testCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DfsBfs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekCoding.DfsBfs" />
-      <module name="question" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="baekCoding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.크기가작은부분문자열" />
         <item itemvalue="Application.Kakao_개인정보수집" />
         <item itemvalue="Application.ChristmasTree" />
         <item itemvalue="Application.타켓넘버" />
         <item itemvalue="Application.Stack_1" />
-        <item itemvalue="Application.DfsBfs" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +232,8 @@
       <workItem from="1671894714236" duration="3996000" />
       <workItem from="1672417769740" duration="180000" />
       <workItem from="1672589371206" duration="98000" />
-      <workItem from="1673160704236" duration="6015000" />
+      <workItem from="1673160704236" duration="6037000" />
+      <workItem from="1673282804814" duration="1411000" />
     </task>
     <servers />
   </component>
