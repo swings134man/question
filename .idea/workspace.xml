@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1d485dea-e430-4136-a7b1-0eb651b59976" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/question/programmers/크기가작은부분문자열.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/question/programmers/크기가작은부분문자열.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +51,9 @@
     <property name="project.structure.side.proportion" value="0.2735632" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
   </component>
-  <component name="RunManager" selected="Application.Lambda_1">
-    <configuration name="타켓넘버" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.타켓넘버" />
+  <component name="RunManager" selected="Application.연속된수의합">
+    <configuration name="연속된수의합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.연속된수의합" />
       <module name="question" />
       <extension name="coverage">
         <pattern>
@@ -211,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.연속된수의합" />
         <item itemvalue="Application.Lambda_1" />
         <item itemvalue="Application.문자열정렬하기2" />
         <item itemvalue="Application.Kakao_개인정보수집" />
         <item itemvalue="Application.ChristmasTree" />
-        <item itemvalue="Application.타켓넘버" />
       </list>
     </recent_temporary>
   </component>
@@ -251,6 +250,7 @@
       <workItem from="1673769465269" duration="242000" />
       <workItem from="1673854702751" duration="842000" />
       <workItem from="1673855549858" duration="2312000" />
+      <workItem from="1673971967771" duration="836000" />
     </task>
     <servers />
   </component>
