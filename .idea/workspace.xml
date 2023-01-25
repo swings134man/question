@@ -28,6 +28,7 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/baekCoding/행렬덧셈.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/baekCoding/미로찾기.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/baekCoding/바이러스.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/programmers/게임맵최단거리.java" root0="SKIP_INSPECTION" />
@@ -250,7 +251,10 @@
       <workItem from="1673769465269" duration="242000" />
       <workItem from="1673854702751" duration="842000" />
       <workItem from="1673855549858" duration="2312000" />
-      <workItem from="1673971967771" duration="836000" />
+      <workItem from="1673971967771" duration="901000" />
+      <workItem from="1674198055713" duration="604000" />
+      <workItem from="1674382399739" duration="70000" />
+      <workItem from="1674655890182" duration="1588000" />
     </task>
     <servers />
   </component>
