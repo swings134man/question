@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d485dea-e430-4136-a7b1-0eb651b59976" name="Changes" comment="">
+    <list default="true" id="1d485dea-e430-4136-a7b1-0eb651b59976" name="Changes" comment="백준 - 행렬덧셈(2378)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
     <property name="project.structure.side.proportion" value="0.2735632" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
   </component>
-  <component name="RunManager" selected="Application.연속된수의합">
+  <component name="RunManager" selected="Application.배열회전시키기">
     <configuration name="연속된수의합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmers.연속된수의합" />
       <module name="question" />
@@ -79,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChristmasTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testCode.ChristmasTree" />
+    <configuration name="배열회전시키기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.배열회전시키기" />
       <module name="question" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testCode.*" />
+          <option name="PATTERN" value="programmers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,11 +211,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.배열회전시키기" />
         <item itemvalue="Application.연속된수의합" />
         <item itemvalue="Application.Lambda_1" />
         <item itemvalue="Application.문자열정렬하기2" />
         <item itemvalue="Application.Kakao_개인정보수집" />
-        <item itemvalue="Application.ChristmasTree" />
       </list>
     </recent_temporary>
   </component>
@@ -254,8 +254,17 @@
       <workItem from="1673971967771" duration="901000" />
       <workItem from="1674198055713" duration="604000" />
       <workItem from="1674382399739" duration="70000" />
-      <workItem from="1674655890182" duration="1588000" />
+      <workItem from="1674655890182" duration="3459000" />
+      <workItem from="1675326395146" duration="1133000" />
     </task>
+    <task id="LOCAL-00001" summary="백준 - 행렬덧셈(2378)">
+      <created>1674659308977</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674659308977</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,6 +280,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="백준 - 행렬덧셈(2378)" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 - 행렬덧셈(2378)" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
