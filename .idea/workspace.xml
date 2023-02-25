@@ -31,6 +31,7 @@
     <setting file="file://$PROJECT_DIR$/src/baekCoding/행렬덧셈.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/programmers/나머지가1이되는수찾기.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/baekCoding/미로찾기.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/programmers/가장긴팰린드롬.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/baekCoding/바이러스.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/programmers/게임맵최단거리.java" root0="SKIP_INSPECTION" />
   </component>
@@ -53,7 +54,7 @@
     <property name="project.structure.side.proportion" value="0.2735632" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.나머지가1이되는수찾기">
+  <component name="RunManager" selected="Application.가장긴팰린드롬">
     <configuration name="연속된수의합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmers.연속된수의합" />
       <module name="question" />
@@ -93,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kakao_개인정보수집" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.Kakao_개인정보수집" />
+    <configuration name="가장긴팰린드롬" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.가장긴팰린드롬" />
       <module name="question" />
       <extension name="coverage">
         <pattern>
@@ -238,11 +239,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.가장긴팰린드롬" />
         <item itemvalue="Application.나머지가1이되는수찾기" />
         <item itemvalue="Application.연속된수의합" />
         <item itemvalue="Application.Lambda_1" />
         <item itemvalue="Application.문자열정렬하기2" />
-        <item itemvalue="Application.Kakao_개인정보수집" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +286,7 @@
       <workItem from="1675326395146" duration="7892000" />
       <workItem from="1675411692522" duration="987000" />
       <workItem from="1675448896220" duration="2613000" />
-      <workItem from="1677315576668" duration="986000" />
+      <workItem from="1677315576668" duration="1548000" />
     </task>
     <task id="LOCAL-00001" summary="백준 - 행렬덧셈(2378)">
       <created>1674659308977</created>
