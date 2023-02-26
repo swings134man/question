@@ -31,6 +31,7 @@
     <setting file="file://$PROJECT_DIR$/src/baekCoding/행렬덧셈.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/programmers/콜라문제.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/programmers/나머지가1이되는수찾기.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/programmers/로또최고순위최저순위.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/baekCoding/미로찾기.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/programmers/가장긴팰린드롬.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/baekCoding/바이러스.java" root0="SKIP_INSPECTION" />
@@ -55,7 +56,7 @@
     <property name="project.structure.side.proportion" value="0.2735632" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.콜라문제">
+  <component name="RunManager" selected="Application.로또최고순위최저순위">
     <configuration name="연속된수의합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmers.연속된수의합" />
       <module name="question" />
@@ -82,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="콜라문제" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.콜라문제" />
+    <configuration name="로또최고순위최저순위" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.로또최고순위최저순위" />
       <module name="question" />
       <extension name="coverage">
         <pattern>
@@ -101,6 +102,71 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="testCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="배열회전시키기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.배열회전시키기" />
+      <module name="question" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="크기가작은부분문자열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.크기가작은부분문자열" />
+      <module name="question" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="미로찾기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekCoding.미로찾기" />
+      <module name="question" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baekCoding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="바이러스" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekCoding.바이러스" />
+      <module name="question" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baekCoding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="콜라문제" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.콜라문제" />
+      <module name="question" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,61 +265,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="배열회전시키기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.배열회전시키기" />
-      <module name="question" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programmers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="크기가작은부분문자열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.크기가작은부분문자열" />
-      <module name="question" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programmers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="미로찾기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekCoding.미로찾기" />
-      <module name="question" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="baekCoding.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="바이러스" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekCoding.바이러스" />
-      <module name="question" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="baekCoding.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.콜라문제" />
+        <item itemvalue="Application.로또최고순위최저순위" />
         <item itemvalue="Application.나머지가1이되는수찾기" />
         <item itemvalue="Application.연속된수의합" />
         <item itemvalue="Application.Lambda_1" />
@@ -300,7 +314,8 @@
       <workItem from="1675411692522" duration="987000" />
       <workItem from="1675448896220" duration="2613000" />
       <workItem from="1677315576668" duration="2450000" />
-      <workItem from="1677401187565" duration="1036000" />
+      <workItem from="1677401187565" duration="1730000" />
+      <workItem from="1677428045574" duration="2614000" />
     </task>
     <task id="LOCAL-00001" summary="백준 - 행렬덧셈(2378)">
       <created>1674659308977</created>
