@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1d485dea-e430-4136-a7b1-0eb651b59976" name="Changes" comment="백준 - 행렬덧셈(2378)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/question/programmers/로또최고순위최저순위.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/question/programmers/로또최고순위최저순위.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programmers/대충만든자판.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/대충만든자판.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -345,7 +345,7 @@
       <workItem from="1677401187565" duration="1730000" />
       <workItem from="1677428045574" duration="2793000" />
       <workItem from="1677575239768" duration="2866000" />
-      <workItem from="1677773606290" duration="2796000" />
+      <workItem from="1677773606290" duration="4029000" />
     </task>
     <task id="LOCAL-00001" summary="백준 - 행렬덧셈(2378)">
       <created>1674659308977</created>
