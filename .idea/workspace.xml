@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d485dea-e430-4136-a7b1-0eb651b59976" name="Changes" comment="프로그래머스 - 추억점수">
+    <list default="true" id="1d485dea-e430-4136-a7b1-0eb651b59976" name="Changes" comment="프로그래머스 - 부족한금액계산하기">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/question/programmers/lv1/달리기경주.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/question/programmers/lv1/달리기경주.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,22 +58,19 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2735632" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
-    <property name="show.migrate.to.gradle.popup" value="false" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RunManager" selected="Application.부족한금액">
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.예산">
     <configuration name="연속된수의합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmers.연속된수의합" />
       <module name="question" />
@@ -108,103 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="달리기경주" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.lv1.달리기경주" />
+    <configuration name="예산" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.lv1.예산" />
       <module name="question" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="programmers.lv1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="부족한금액" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.lv1.부족한금액" />
-      <module name="question" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programmers.lv1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="카드뭉치" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.카드뭉치" />
-      <module name="question" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programmers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="가장가까운글자" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.가장가까운글자" />
-      <module name="question" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programmers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="로또최고순위최저순위" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.로또최고순위최저순위" />
-      <module name="question" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programmers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="크기가작은부분문자열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.크기가작은부분문자열" />
-      <module name="question" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programmers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="배열회전시키기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.배열회전시키기" />
-      <module name="question" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programmers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="대충만든자판" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.대충만든자판" />
-      <module name="question" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programmers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -342,6 +253,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="달리기경주" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.lv1.달리기경주" />
+      <module name="question" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmers.lv1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="가장가까운글자" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmers.가장가까운글자" />
       <module name="question" />
@@ -407,10 +331,100 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="부족한금액" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.lv1.부족한금액" />
+      <module name="question" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmers.lv1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="카드뭉치" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.카드뭉치" />
+      <module name="question" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="가장가까운글자" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.가장가까운글자" />
+      <module name="question" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="로또최고순위최저순위" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.로또최고순위최저순위" />
+      <module name="question" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="크기가작은부분문자열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.크기가작은부분문자열" />
+      <module name="question" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="배열회전시키기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.배열회전시키기" />
+      <module name="question" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="대충만든자판" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.대충만든자판" />
+      <module name="question" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.부족한금액" />
-        <item itemvalue="Application.달리기경주" />
+        <item itemvalue="Application.예산" />
         <item itemvalue="Application.옹알이2" />
         <item itemvalue="Application.나머지가1이되는수찾기" />
         <item itemvalue="Application.연속된수의합" />
@@ -467,7 +481,8 @@
       <workItem from="1680685167177" duration="696000" />
       <workItem from="1688479620997" duration="230000" />
       <workItem from="1688559041444" duration="1470000" />
-      <workItem from="1691670757676" duration="3089000" />
+      <workItem from="1691670757676" duration="3284000" />
+      <workItem from="1692094384161" duration="1510000" />
     </task>
     <task id="LOCAL-00001" summary="백준 - 행렬덧셈(2378)">
       <created>1674659308977</created>
@@ -483,7 +498,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688560505793</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="프로그래머스 - 부족한금액계산하기">
+      <created>1691674039754</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691674039754</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -503,7 +525,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="백준 - 행렬덧셈(2378)" />
     <MESSAGE value="프로그래머스 - 추억점수" />
-    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 - 추억점수" />
+    <MESSAGE value="프로그래머스 - 부족한금액계산하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 - 부족한금액계산하기" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
