@@ -6,3 +6,6 @@
 /.settings
 /classes
 /bin
+
+# eclipse
+/.idea
