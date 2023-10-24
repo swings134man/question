@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d485dea-e430-4136-a7b1-0eb651b59976" name="Changes" comment="프로그래머스 - 부족한금액계산하기">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/question/programmers/lv1/달리기경주.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/question/programmers/lv1/달리기경주.class" afterDir="false" />
-    </list>
+    <list default="true" id="1d485dea-e430-4136-a7b1-0eb651b59976" name="Changes" comment="프로그래머스 - 예산" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -482,7 +478,7 @@
       <workItem from="1688479620997" duration="230000" />
       <workItem from="1688559041444" duration="1470000" />
       <workItem from="1691670757676" duration="3284000" />
-      <workItem from="1692094384161" duration="1510000" />
+      <workItem from="1692094384161" duration="2209000" />
     </task>
     <task id="LOCAL-00001" summary="백준 - 행렬덧셈(2378)">
       <created>1674659308977</created>
@@ -505,7 +501,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691674039754</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="프로그래머스 - 예산">
+      <option name="closed" value="true" />
+      <created>1692096038663</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692096038663</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -526,7 +530,8 @@
     <MESSAGE value="백준 - 행렬덧셈(2378)" />
     <MESSAGE value="프로그래머스 - 추억점수" />
     <MESSAGE value="프로그래머스 - 부족한금액계산하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 - 부족한금액계산하기" />
+    <MESSAGE value="프로그래머스 - 예산" />
+    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 - 예산" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
