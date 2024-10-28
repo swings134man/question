@@ -1,4 +1,4 @@
-package baekCoding;
+package baekCoding.before;
 
 public class Q1_2 {
 

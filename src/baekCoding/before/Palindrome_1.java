@@ -1,4 +1,4 @@
-package baekCoding;
+package baekCoding.before;
 
 import java.io.IOException;
 import java.util.Scanner;
