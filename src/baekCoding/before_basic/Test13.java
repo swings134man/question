@@ -1,4 +1,4 @@
-package baekCoding.before;
+package baekCoding.before_basic;
 
 import java.util.ArrayList;
 import java.util.Arrays;

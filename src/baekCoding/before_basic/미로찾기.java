@@ -1,4 +1,4 @@
-package baekCoding.before;
+package baekCoding.before_basic;
 
 import java.io.BufferedReader;
 import java.io.IOException;
