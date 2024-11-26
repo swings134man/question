@@ -1,4 +1,4 @@
-package baekCoding.before_basic;
+package baekCoding.category.breuteforce;
 
 import java.io.BufferedReader;
 import java.io.IOException;
