@@ -1,10 +1,11 @@
-package baekCoding.before_basic;
+package baekCoding.category.dfs;
 
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
 /************
+ * TODO: DFS, BFS 공부할 때 보기
  * @info : 백준 - 바이러스(bfs) - 2605번
  * @name : 바이러스
  * @date : 2022/12/18 6:59 PM
@@ -15,7 +16,7 @@ import java.util.Scanner;
  * M : 간선 갯수
  * V : 시작 번호.
  ************/
-public class 바이러스 {
+public class 바이러스_dfsBfs_ {
 
     static int[][] arr;
     static boolean[] visited;
