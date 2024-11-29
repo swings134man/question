@@ -3,7 +3,6 @@ package baekCoding.category.time_complex;
 import java.util.Scanner;
 
 /**
- * TODO: 한번더 풀어보기! 2024-11-24
  * Parameter
      * a1, a0
      * c
