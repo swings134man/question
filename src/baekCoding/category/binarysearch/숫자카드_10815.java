@@ -37,7 +37,7 @@ public class 숫자카드_10815 {
         br.close();
     }
 
-    static int binarySearch(int target) {
+    private static int binarySearch(int target) {
         int left = 0;
         int right = n - 1;
 
