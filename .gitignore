@@ -6,6 +6,8 @@
 /.settings
 /classes
 /bin
+out/
+*.iml
 
 # eclipse
 /.idea
