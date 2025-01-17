@@ -42,7 +42,7 @@ public class 정수a를k로만들기_25418 {
                 return;
             }
             if(temp[0] * 2 <= k) {
-                visited[temp[0]] = true;
+                visited[temp[0] * 2] = true;
                 qu.add(new int[]{temp[0] * 2, temp[1] + 1});
             }
 
