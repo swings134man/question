@@ -1,0 +1,4 @@
+# Java_module ignore file
+
+.gradle/
+build/
