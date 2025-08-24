@@ -10,5 +10,6 @@ package com.lucas.test
 fun main() {
     val array = arrayOf(1, 2, 3, 4, 5)
 
-    print("aa: ${array.take(4-1)}")
+    println("aa: ${array.take(4-1)}")
+    println(array.indices)
 }
