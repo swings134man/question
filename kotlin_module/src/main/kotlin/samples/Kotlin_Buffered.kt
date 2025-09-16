@@ -19,4 +19,23 @@ fun main() {
     // BufferedWriter 사용 예제
     val writer = System.out.bufferedWriter()
     val bw2 = BufferedWriter(System.out.writer())
+
+
+
+    // Test Samples
+    // 주의점 bufferedWriter 의 경우 개행문자(\n) 을 사용하지 않으면 이어서 나옴
+    while (true) {
+        val strings = reader.readLine()
+
+        if(strings == "exit") break
+
+        bw2.write(strings) // 이어서 출력됨
+    }
+    bw2.flush()
+
+    reader.close()
+    br2.close()
+    br3.close()
+    bw2.close()
+    writer.close()
 }
